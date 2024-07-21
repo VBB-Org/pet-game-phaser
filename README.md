@@ -1,3 +1,12 @@
+# PET GAME LETS GOOOOOO
+
+The following boilerplate was set up from [/phaserjs/template-vite-ts](https://github.com/phaserjs/template-vite-ts)
+
+When you commit, please pull main into your feature branch before creating your pull request
+Please make pull requests only when a feature is complete and tested to be bug-free
+
+At the moment we're just playing around so main is not protected so just go for it whatever. Eventually we'll get some structure here.
+
 # Phaser Vite TypeScript Template
 
 This is a Phaser 3 project template that uses Vite for bundling. It supports hot-reloading for quick development workflow, includes TypeScript support and scripts to generate production-ready builds.
